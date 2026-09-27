@@ -1,0 +1,8 @@
+{
+  "name": "DSA Learn & Earn",
+  "description": "Zero to Hero high-income skills in Hindi with roadmaps, AI mentor, portfolio builder, and marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
